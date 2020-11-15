@@ -30,8 +30,8 @@ $ docker container ls
 
 ```
 $ cd ApplyNow.Data
-$  dotnet ef migrations add dbinit
-$   dotnet ef database update
+$ dotnet ef migrations add dbinit
+$ dotnet ef database update
 ```
 ## 3. Project running ports with docker
 
